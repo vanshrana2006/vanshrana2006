@@ -6,7 +6,7 @@
 
 🎓 I’m a Computer Science Engineering (AI & ML) student at **Chitkara University**  
 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**  
-💻 Skilled in **Python**, **C++**, **Flask**, **Django**, **SQL**, and **Full Stack Development**  
+💻 Skilled in ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
 📈 Strong foundation in **Data Structures**, **OOP**, **NLP**, and **Neural Networks**  
 📬 Reach me at: **ranavansh585@gmail.com** | 📞 +91-8264192623  
 🌐 [My Portfolio](https://vanshrana2006.github.io/FinalPortfolio/) | [LinkedIn](https://www.linkedin.com/in/vansh-rana-676932283/) | [GitHub](https://github.com/vanshrana2006)
@@ -38,16 +38,16 @@
 
 ## 📂 Featured Projects
 
-- 🔗 [Amazon Clone (Flask)](https://github.com/vanshrana2006/FlaskProject)  
+- 🔗 [![Flask](https://img.shields.io/badge/-Amazon%20Clone-000000?logo=flask&logoColor=white)](https://github.com/vanshrana2006/FlaskProject)  
   🛒 AI-powered e-commerce chatbot using Flask and OpenAI API
 
-- 🔗 [Instagram Clone (Django + React)](https://github.com/vanshrana2006/Instagram-Clone)  
+- 🔗 [![Django](https://img.shields.io/badge/-Instagram%20Clone-092E20?logo=django&logoColor=white)](https://github.com/vanshrana2006/Instagram-Clone)  
   📸 Full-stack social app with AI-based content suggestions
 
-- 🔗 [Python Projects](https://github.com/vanshrana2006/Python-Projects)  
+- 🔗 [![Python](https://img.shields.io/badge/-Python%20Projects-3670A0?logo=python&logoColor=white)](https://github.com/vanshrana2006/Python-Projects)  
   🧠 Machine learning, web scraping, and utility automation
 
-- 🔗 [DSA Practice Questions](https://github.com/vanshrana2006/DSA-PRACTICE-QUESTIONS)  
+- 🔗 [![C++](https://img.shields.io/badge/-DSA%20Questions-00599C?logo=c%2B%2B&logoColor=white)](https://github.com/vanshrana2006/DSA-PRACTICE-QUESTIONS)  
   🧩 Solutions in C++ for 300+ data structures & algorithms problems
 
 ---
