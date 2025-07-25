@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Vansh+Rana;Aspiring+AI%2FML+Engineer;Python+%7C+Django+%7C+Flask+%7C+DSA+%7C+AI+%7C+ML+%7C+CV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Vansh+Rana;Aspiring+AI%2FML+Engineer;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+DSA+%7C+AI+%7C+ML+%7C+CV" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,11 +8,12 @@
 
 - 🎓 I’m a Computer Science Engineering (AI & ML) student at **Chitkara University**  
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**  
-- 💻 Skilled in  
+- 💻 Skilled in:  
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />  
 - 📈 Strong foundation in **Data Structures**, **OOP**, **NLP**, and **Neural Networks**  
 - 📬 Reach me at: [ranavansh585@gmail.com](mailto:ranavansh585@gmail.com) | 📞 +91-8264192623  
@@ -23,19 +24,15 @@
 ## 🧠 Skills & Technologies
 
 ### Languages & Frameworks
-
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
 </p>
 
 ### Libraries & Tools
-
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
