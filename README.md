@@ -1,77 +1,91 @@
 # 👋 Hi, I'm Vansh Rana
 
-🎓 B.Tech CSE (AI & ML) Student | 💻 Aspiring AI/ML Engineer  
-📍 Patiala, Punjab, India | Punjabi University (Batch 2028)
+🎓 **Aspiring AI/ML Engineer** with a strong foundation in machine learning, full-stack development, and cloud computing. Passionate about building intelligent, scalable solutions and contributing to impactful tech projects.
+
+- 🔭 Currently pursuing **B.E. in CSE (AI & ML)** from Chitkara University  
+- 💡 Enthusiastic about Deep Learning, NLP, Data Analytics, and Product Development  
+- 🧠 Active in coding contests and AI-based projects  
+- 🌐 [Portfolio Website](https://vanshrana2006.github.io/FinalPortfolio/)  
+- 💬 Ask me about Python, Flask, Django, ML, DSA  
+- 📫 Reach me at **ranavansh585@gmail.com** or +91-8264192623  
 
 ---
 
-## 🚀 About Me
+## 🛠️ Skills & Technologies
 
-I’m an aspiring AI/ML engineer with a strong foundation in **machine learning**, **deep learning**, **computer vision**, and **neural networks**.  
-I'm passionate about solving real-world problems with intelligent systems and scalable backend solutions.
+**Languages & Frameworks**  
+`Python` | `C++` | `JavaScript` | `SQL` | `Django` | `Flask` | `HTML` | `CSS` | `REST APIs`
 
-- 🧠 Proficient in **Python**, **C++**, **JavaScript**, **SQL**
-- 🧩 Strong grasp of **DSA**, with hands-on problem-solving using C++
-- ⚙️ Experienced with **Flask**, **Django**, **TensorFlow**, **Keras**, **NumPy**, **Pandas**, and **scikit-learn**
-- ☁️ Familiar with **Microsoft Azure**, including **AI Studio** and **Cognitive Services**
-- 🗄️ Worked with **MySQL**, **SQL Server**, and relational DBMS
-- 🤝 Team player with strong communication & a passion for continuous learning
+**Libraries & Tools**  
+`Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow` | `PyTorch` | `Matplotlib` | `Seaborn` | `Plotly`
 
----
+**Concepts**  
+`Machine Learning` | `Deep Learning` | `NLP` | `Data Structures` | `OOP` | `Soft Computing`
 
-## 🛠️ Tech Stack
-
-**Languages:**  
-`Python` `C++` `JavaScript` `SQL` `C`
-
-**Frameworks & Libraries:**  
-`Flask` `Django` `TensorFlow` `Keras` `scikit-learn` `NumPy` `Pandas` `OpenCV`
-
-**Cloud & DB:**  
-`Microsoft Azure` `MySQL` `SQL Server`
-
-**Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Postman` `Jupyter` `Azure AI Studio`
+**Dev Tools**  
+`Git & GitHub` | `VS Code` | `Docker` | `Linux` | `CI/CD` | `Postman` | `Jupyter`
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Education
 
-![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshrana2006&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshrana2006&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 📌 Projects
-
-| Project | Description |
-|--------|-------------|
-| [**Tindog**](https://github.com/vanshrana2006/Tindog) | A responsive site built with HTML/CSS/JS |
-| [**YouTube-cc**](https://github.com/vanshrana2006/youtube-cc) | Chrome extension for closed captions |
-| [**TradeG**](https://github.com/vanshrana2006/TradeG) | Stock dashboard with React & Python backend |
-| [**DSA**](https://github.com/vanshrana2006/DSA) | Collection of solved DSA problems in C++ |
+**Bachelor of Engineering in Computer Science Engineering (AI & ML)**  
+*Chitkara University, Punjab*  
+📆 2024 – 2028  
+Relevant Coursework: ML, DL, NLP, Web Development, DSA  
 
 ---
 
-## 🤝 Open To Collaborate On
+## 📜 Certifications
 
-- AI/ML research or applied projects  
-- Computer Vision & NLP applications  
-- Python backend and automation  
-- Cloud-based intelligent systems
-
----
-
-## 📫 Let's Connect
-
-- ✉️ Email: [vanshraghav2018@gmail.com](mailto:vanshraghav2018@gmail.com) *(update if needed)*
-- 🔗 LinkedIn: [linkedin.com/in/vansh-rana-676932283](https://www.linkedin.com/in/vansh-rana-676932283)
+- 📘 Python Data Analytics – *Meta* (Jan 2025)  
+- 🤖 Generative AI – *iHUB @ IIT Roorkee* (Oct 2024)  
+- 🧠 Google Data Analytics Specialization (Jan 2024)  
+- ☁️ Microsoft Azure Fundamentals (Dec 2024)  
+- 🛠️ 40+ other certifications listed on [LinkedIn](https://www.linkedin.com/in/vansh-rana-676932283/)
 
 ---
 
-## 🧠 Motto
+## 💼 Projects
 
-> *“Code with purpose. Learn with curiosity. Build for impact.”*
+### 🛒 Amazon Clone  
+*Feb 2025 – Mar 2025*  
+- Built an **Amazon-style e-commerce website** using **Flask**  
+- Features include user login, product listings, cart functionality, and order placement  
+- Clean UI and scalable backend structure demonstrate full-stack development skills  
+- 🔗 [View Repository](https://github.com/vanshrana2006/FlaskProject)
+
+### 💻 DSA & Python Projects Collection  
+*Ongoing – 2025*  
+- **DSA-PRACTICE-QUESTIONS**: A comprehensive repository of **C++** solutions to common **DSA** problems  
+  - Covers arrays, strings, trees, graphs, DP, and more  
+  - 🔗 [View Repo](https://github.com/vanshrana2006/DSA-PRACTICE-QUESTIONS)  
+- **Python-Projects**: Mini-projects built with **Python** covering games, automation, and data apps  
+  - Demonstrates creativity, logic building, and Python fluency  
+  - 🔗 [View Repo](https://github.com/vanshrana2006/Python-Projects)
 
 ---
+
+## 🏆 Achievements
+
+- 🥇 Finalist – Internal Chitkara Hackathon (AI Track), 2024  
+- 🧠 Top 5% performer in Meta’s Python Data Analytics Certification  
+- 💻 Active contributor on:
+  - [LeetCode](https://leetcode.com/u/vansh_rana256/)  
+  - [CodeChef](https://www.codechef.com/users/vansh_rana2006)  
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/user/vansh_rana256/)  
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vansh-rana-676932283/)  
+- 💼 [GitHub](https://github.com/vanshrana2006)  
+- 🌐 [Portfolio](https://vanshrana2006.github.io/FinalPortfolio/)  
+- 📧 ranavansh585@gmail.com  
+- 📱 +91-8264192623  
+
+---
+
+> 🚀 *Striving to solve real-world problems through data-driven, intelligent systems.*
 
