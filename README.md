@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Vansh+Rana;Aspiring+AI%2FML+Engineer;Python+%7C+Django+%7C+Flask+%7C+DSA+%7C+AI+%7C+ML+%7C+CV" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Vansh+Rana;Aspiring+AI%2FML+Engineer;Python+%7C+Django+%7C+Flask+%7C+DSA+%7C+AI+%7C+ML+%7C+CV" alt="Typing SVG" />
+</p>
 
 ---
 
