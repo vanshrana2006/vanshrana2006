@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
 </p>
 
 ### Libraries & Tools
@@ -80,7 +82,9 @@
 - 🧾 Google – Data Analytics Specialization (2024)
 
 ---
-<h3>Languages and Tools:</h3>
+
+## 🛠️ Languages and Tools
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
@@ -96,12 +100,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 </p>
 
+---
 
 ## 🏆 Achievements
 
 - 🥇 Finalist – Internal Hackathon, Chitkara University (AI Category)  
 - 🎯 Top 5% – Meta Python Data Analytics Course  
-- 🧠 Consistent LeetCode/GFG practice [LeetCode](https://leetcode.com/u/vansh_rana256/) | [CodeChef](https://www.codechef.com/users/vansh_rana2006) | [GFG](https://www.geeksforgeeks.org/user/vansh_rana256/)
+- 🧠 Consistent LeetCode/GFG practice:  
+  [LeetCode](https://leetcode.com/u/vansh_rana256/) | [CodeChef](https://www.codechef.com/users/vansh_rana2006) | [GFG](https://www.geeksforgeeks.org/user/vansh_rana256/)
 
 ---
 
