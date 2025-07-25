@@ -4,50 +4,61 @@
 
 ## 🚀 About Me
 
-🎓 I’m a Computer Science Engineering (AI & ML) student at **Chitkara University**  
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**  
-💻 Skilled in ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-📈 Strong foundation in **Data Structures**, **OOP**, **NLP**, and **Neural Networks**  
-📬 Reach me at: **ranavansh585@gmail.com** | 📞 +91-8264192623  
-🌐 [My Portfolio](https://vanshrana2006.github.io/FinalPortfolio/) | [LinkedIn](https://www.linkedin.com/in/vansh-rana-676932283/) | [GitHub](https://github.com/vanshrana2006)
+- 🎓 I’m a Computer Science Engineering (AI & ML) student at **Chitkara University**  
+- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**  
+- 💻 Skilled in  
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />  
+- 📈 Strong foundation in **Data Structures**, **OOP**, **NLP**, and **Neural Networks**  
+- 📬 Reach me at: [ranavansh585@gmail.com](mailto:ranavansh585@gmail.com) | 📞 +91-8264192623  
+- 🌐 [My Portfolio](https://vanshrana2006.github.io/FinalPortfolio/) | [LinkedIn](https://www.linkedin.com/in/vansh-rana-676932283/) | [GitHub](https://github.com/vanshrana2006)
 
 ---
 
 ## 🧠 Skills & Technologies
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+### Languages & Frameworks
 
-**Libraries & Tools:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+</p>
+
+### Libraries & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-- 🔗 [![Flask](https://img.shields.io/badge/-Amazon%20Clone-000000?logo=flask&logoColor=white)](https://github.com/vanshrana2006/FlaskProject)  
+- 🔗 [Amazon Clone (Flask)](https://github.com/vanshrana2006/FlaskProject)  
   🛒 AI-powered e-commerce chatbot using Flask and OpenAI API
 
-- 🔗 [![Django](https://img.shields.io/badge/-Instagram%20Clone-092E20?logo=django&logoColor=white)](https://github.com/vanshrana2006/Instagram-Clone)  
+- 🔗 [Instagram Clone (Django + React)](https://github.com/vanshrana2006/Instagram-Clone)  
   📸 Full-stack social app with AI-based content suggestions
 
-- 🔗 [![Python](https://img.shields.io/badge/-Python%20Projects-3670A0?logo=python&logoColor=white)](https://github.com/vanshrana2006/Python-Projects)  
+- 🔗 [Python Projects](https://github.com/vanshrana2006/Python-Projects)  
   🧠 Machine learning, web scraping, and utility automation
 
-- 🔗 [![C++](https://img.shields.io/badge/-DSA%20Questions-00599C?logo=c%2B%2B&logoColor=white)](https://github.com/vanshrana2006/DSA-PRACTICE-QUESTIONS)  
+- 🔗 [DSA Practice Questions](https://github.com/vanshrana2006/DSA-PRACTICE-QUESTIONS)  
   🧩 Solutions in C++ for 300+ data structures & algorithms problems
 
 ---
@@ -79,4 +90,4 @@
 
 ---
 
-⭐ _Thank you for visiting my profile! Let's build the future with AI._  
+⭐ _Thank you for visiting my profile! Let's build the future with AI._
